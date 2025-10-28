@@ -3,7 +3,7 @@ How much does it really cost to play this game with a full set of cards?
 
 An unfortunate soul told me about this anime-themed game that he plays, and I quickly tasked myself with looking up rarity stats and set specs in order to compute an average cost of acquiring all the cards by buying packs, by buying in-game currency.
 
-This is a Python script that can run various simulations many times in order to return an expected value of completing a particular set at 3x copies, including the crafting mechanic for the most accurate pricing.
+This is a Python script that can run pack-opening simulations many times in order to return an expected value of completing a particular set at 3x copies, including the crafting mechanic value of copies over 3x for the most accurate pricing.
 
 Results:  
 Base Set ~= $640  
