@@ -5,9 +5,9 @@ An unfortunate soul told me about this anime-themed game that he plays, and I qu
 
 This is a Python script that can run various simulations many times in order to return an expected value of completing a particular set at 3x copies, including the crafting mechanic for the most accurate pricing.
 
-Results:
-Base Set ~= $640
-Expansion Set ~= $400 per set (there are currently 2 as of writing this)
+Results:  
+Base Set ~= $640  
+Expansion Set ~= $400 per set (there are currently 2 as of writing this)  
 
 The login bonus plus in-game quest grinding only doles out about 2-3 packs per day, but you need hundreds in order to complete a set at 3x copies.
 
